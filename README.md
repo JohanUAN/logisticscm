@@ -1,2 +1,2 @@
 # logisticscm
-Repositorio para Sistema de Ingeniería de Software Universidad Antonino Nariño
+Repositorio para Ingeniería de Software Universidad Antonino Nariño
